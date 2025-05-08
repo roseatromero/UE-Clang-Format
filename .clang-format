@@ -5,10 +5,6 @@ BasedOnStyle: LLVM
 AccessModifierOffset: -4
 AlignAfterOpenBracket: DontAlign
 AlignArrayOfStructures: Right
-AlignConsecutiveDeclarations: false
-AlignConsecutiveAssignments:
-  Enabled: true
-  AlignCompound: true
 AlignEscapedNewlines: Left
 AlignOperands: AlignAfterOperator
 AlignTrailingComments: true
